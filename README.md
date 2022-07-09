@@ -20,8 +20,8 @@
 
 ## Hello, Devs!!
 
-Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada pelo mundo da tecnologia! sou viciada em chocolate, gatos, vinhos e games  ❤
+Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! Sou viciada em chocolate, gatos, vinhos e no mundo dos games sou conhecida como Bolinho  ❤
 
 <p align="center">
-  <img src="https://c.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width="350">
+  <img src="https://github.com/karenyov/karenyov/blob/main/bolinho.gif" width="350">
 </p>
