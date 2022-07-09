@@ -70,3 +70,6 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
 </a>
 </p>
 
+  ![Snake animation](https://github.com/karenyov/karenyov/blob/output/github-contribution-grid-snake.svg)
+
+
