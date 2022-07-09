@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/karenyov/karenyov/blob/main/avatar2.jpeg">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/karenyov/karenyov/blob/main/avatar2.png">
 
 </br>
 </br>
@@ -27,7 +27,7 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://github.com/karenyov/karenyov/blob/main/avatar1.jpeg">
+<img width="300px" align="right" src="https://github.com/karenyov/karenyov/blob/main/avatar1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
