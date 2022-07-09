@@ -69,3 +69,11 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
 
 
 
+##
+<p align="center">
+<a href="https://github.com/jeniblodev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
