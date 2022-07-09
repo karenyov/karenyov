@@ -20,7 +20,7 @@
 
 ## Olá gente!!
 
-Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! Sou viciada em chocolate, gatos, vinhos e no mundo dos games sou conhecida como Bolinho  ❤
+Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! Sou viciada em chocolate, gatos, vinhos e no mundo dos games sou conhecida como Bolinho ❤
 
 <p align="center">
   <img src="https://github.com/karenyov/karenyov/blob/main/bolinho.gif" width="350">
@@ -46,7 +46,15 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title = "LARAVEL"/></code>
 
-
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">💻 Atualmente faço parte da equipe de desenvolvimento da <a href="https://ekan.com.br/">Ekan</a>;</p>
+ <p align="left">📚 Tenho estudado Javascript e a pouco tempo iniciei meus estudos para desenvolver aplicativos mobile;</p>
+ <p align="left">🐱 Mamãe do Hércules;</p>
+ <p align="left">🎮 Conhecida como Bolinho nos games;</p>
+ <p align="left">🎬 Adoro assistir filmes, séries e ler livros.</p>
+</div>
 
 
 
