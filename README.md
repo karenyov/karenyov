@@ -1,28 +1,12 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/karenyov/karenyov/blob/main/avatar1.jpeg">
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/karenyov/karenyov/blob/main/avatar2.jpeg">
 
 </br>
 </br>
 
-<!--
-**karenyov/karenyov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# 📲 Contatos:
-
-<div>
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Karen Vicente</h1>
 <a href="https://www.instagram.com/kyovicente/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/boliiinhoo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@karenyasmin37"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
