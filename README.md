@@ -26,8 +26,8 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
   <img src="https://github.com/karenyov/karenyov/blob/main/bolinho.gif" width="350">
 </p>
 
-### 🖥️ Tecnologias e Ferramentas: 
----
+## 🖥️ Tecnologias e Ferramentas: 
+
 <img width="300px" align="right" src="https://github.com/karenyov/karenyov/blob/main/avatar1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
