@@ -56,6 +56,8 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
  <p align="left">🎬 Adoro assistir filmes, séries e ler livros.</p>
 </div>
 
+</br>
+</br>
 
 ##
 <p align="center">
