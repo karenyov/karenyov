@@ -23,7 +23,7 @@
 Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! Sou viciada em chocolate, gatos, vinhos e no mundo dos games sou conhecida como Bolinho ❤
 
 <p align="center">
-  <img src="https://github.com/karenyov/rncrud/blob/main/app.gif" width="350">
+  <img src="https://github.com/karenyov/karenyov/blob/main/bolinho.gif" width="350">
 </p>
 
 ## 🖥️ Tecnologias e Ferramentas: 
