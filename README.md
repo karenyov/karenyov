@@ -62,7 +62,7 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
 </br>
 </br>
 
-##
+## :octocat: GitHub
 <p align="center">
 <a href="https://github.com/karenyov">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karenyov&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
