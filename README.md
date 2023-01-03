@@ -19,15 +19,15 @@
 </br>
 </br>
 
-## Olá gente!!
+## Hello!!
 
-Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! Sou viciada em chocolate, gatos, vinhos e no mundo dos games sou conhecida como Bolinho ❤
+I'm 28 years old, living in São José dos Campos/SP. I adore technology! Like chocolate, cats, wines and in games world, better know as "Bolinho" ❤
 
 <p align="center">
   <img src="https://github.com/karenyov/karenyov/blob/main/bolinho.gif" width="350">
 </p>
 
-## 🖥️ Tecnologias e Ferramentas: 
+## 🖥️ Technics 
 
 <img width="300px" align="right" src="https://github.com/karenyov/karenyov/blob/main/avatar1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -53,11 +53,11 @@ Tenho 28 anos, moro em São José dos Campos/SP e sou apaixonada em tecnologia! 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">💻 Atualmente faço parte da equipe de desenvolvimento da <a href="https://ekan.com.br/">Ekan</a>;</p>
- <p align="left">📚 Tenho estudado Javascript e a pouco tempo iniciei meus estudos para desenvolver aplicativos mobile;</p>
- <p align="left">🐱 Mamãe do Hércules;</p>
- <p align="left">🎮 Conhecida como Bolinho nos games;</p>
- <p align="left">🎬 Adoro assistir filmes, séries e ler livros.</p>
+ <p align="left">💻 I currently work with software developer at <a href="https://ekan.com.br/">Ekan</a>;</p>
+ <p align="left">📚 I'm studying Javascript for mobile development;</p>
+ <p align="left">🐱 I'm the mother of Hércules;</p>
+ <p align="left">🎮 Know as "Bolinho" in games world;</p>
+ <p align="left">🎬 I like movies, read books and filmes, series e ler livros.</p>
 </div>
 
 </br>
