@@ -57,7 +57,7 @@ I'm 28 years old, living in São José dos Campos/SP. I adore technology! Like c
  <p align="left">📚 I'm studying Javascript for mobile development;</p>
  <p align="left">🐱 I'm the mother of Hércules;</p>
  <p align="left">🎮 Know as "Bolinho" in games world;</p>
- <p align="left">🎬 I like movies, read books, filmes and series.</p>
+ <p align="left">🎬 I like movies and read books.</p>
 </div>
 
 </br>
