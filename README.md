@@ -23,9 +23,6 @@
 
 I'm 28 years old, living in São José dos Campos/SP. I adore technology! Like chocolate, cats, wines and in games world, better know as "Bolinho" ❤
 
-<p align="center">
-  <img src="https://github.com/karenyov/karenyov/blob/main/bolinho.gif" width="350">
-</p>
 
 ## 🖥️ Technics 
 
