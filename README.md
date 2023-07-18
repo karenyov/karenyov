@@ -20,7 +20,7 @@
 
 ## Hello!!
 
-I'm 28 years old, living in São José dos Campos/SP. I adore technology! Like chocolate, cats, wines and in games world, better know as "Bolinho" ❤
+I'm 29 years old, living in São José dos Campos/SP. I adore technology! Like chocolate, cats, wines and in games world, better know as "Bolinho" ❤
 
 
 ## 🖥️ Technics 
