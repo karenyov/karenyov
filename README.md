@@ -69,7 +69,5 @@ I'm 29 years old, living in São José dos Campos/SP. I adore technology! Like c
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karenyov&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
-
-  ![Snake animation](https://github.com/karenyov/karenyov/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/karenyov/karenyov/blob/output/github-contribution-grid-snake.gif)
 
