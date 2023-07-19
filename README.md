@@ -72,3 +72,6 @@ I'm 29 years old, living in São José dos Campos/SP. I adore technology! Like c
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/karenyov/karenyov/output/github-contribution-grid-snake-dark.svg)
 
+
+
+Generate a [gif](https://github.com/karenyov/karenyov/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/karenyov/karenyov/raw/output/github-contribution-grid-snake.svg) image.
