@@ -54,7 +54,7 @@ I'm 29 years old, living in São José dos Campos/SP. I adore technology! Like c
  <p align="left">🐱 I'm the mother of Hércules;</p>
  <p align="left">🎮 Know as "Bolinho" in games world;</p>
  <p align="left">🎬 I like movies and read books;</p>
- <p align="left">	:nerd_face: <a href="https://www.beecrowd.com.br/judge/pt/users/university/fatec-sjc">Rank beecrowd</a>.</p>
+ <p align="left">	:nerd_face: <a href="https://www.beecrowd.com.br/judge/pt/profile/149737">Rank beecrowd</a>.</p>
 </div>
 
 </br>
